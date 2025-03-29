@@ -23,11 +23,14 @@ This project provides a software/GUI tool to easily create and generate bidirect
 3. **Connect Nodes**:
    - Right-click and drag from one node to another to create an edge.
 
-4. **Export Graph**:
+4. **Delete Nodes/Edges**:
+   - Midde-click on an element to delete it
+
+5. **Export Graph**:
    - Press the `A` key to save the graph as a JSON adjacency list in `resources/graph_adjacency_list.json`.
    - The graph data will also be used to generate a C++ file (`resources/generated_map.cpp`) using `gen.py`.
 
-5. **Run the Generator**:
+6. **Run the Generator**:
    - Execute `gen.py` to generate the C++ adjacency list file.
 
 ### Example
