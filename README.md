@@ -32,9 +32,7 @@ This project provides a software/GUI tool to easily create and generate bidirect
 
 ### Example
 
-```markdown
 ![Graph Builder Screenshot](images/image.png)
-```
 
 ## File Structure
 
